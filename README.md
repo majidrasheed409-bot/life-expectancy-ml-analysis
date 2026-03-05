@@ -112,7 +112,7 @@ The methods used in this project can support:
 ---
 
 ## Author
-
+Majid Rasheed
 MSc Artificial Intelligence & Data Science
 University of Hull
 
