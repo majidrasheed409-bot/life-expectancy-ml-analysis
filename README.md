@@ -100,19 +100,6 @@ The analysis revealed several important insights:
 
 ---
 
-## Repository Structure
-
-```id="4x0h2r"
-life-expectancy-ml-analysis
-
-├ assignment.ipynb
-├ formative assessment 1.pdf
-├ Formative Assignment 2 - Coding Exercise-2.pdf
-└ README.md
-```
-
----
-
 ## Applications
 
 The methods used in this project can support:
